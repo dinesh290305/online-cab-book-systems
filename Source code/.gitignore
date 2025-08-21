@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Java
+*.class
+*.jar
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
